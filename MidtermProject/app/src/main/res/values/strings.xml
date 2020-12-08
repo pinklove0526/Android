@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MidtermProject</string>
+    <string name="see_all_book">SEE ALL BOOK</string>
+    <string name="already_read">ALREADY READ</string>
+    <string name="currently_reading">CURRENTLY READING</string>
+    <string name="wishlist">WISHLIST</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="about">ABOUT</string>
+    <string name="develop_by_blackcat">Develop by BlackCat</string>
+</resources>
