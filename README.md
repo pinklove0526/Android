@@ -1,11 +1,11 @@
 # Android
 A list of Android apps done within the Advanced Object-Oriented Programming course.
 # Apps included in this repository
-+ Week 1: HelloWorld
++ Week 1: Hello World
 + Week 2: Implicit Intent, Life Cycle and Multiple Activity
 + Week 3: Interface and Menu
 + Week 4: ListView
-+ Week 5: Animation, MP3, Styles
++ Week 5: Animation, MP3 and Styles
 + Week 6: Google Maps
 + Week 7: AsyncTask, Service and Broadcast
 + Week 8: Alarms and Notifications
