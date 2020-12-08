@@ -10,7 +10,7 @@ A list of Android apps done within the Advanced Object-Oriented Programming cour
 + Week 7: AsyncTask, Service and Broadcast
 + Week 8: Alarms and Notifications
 + Week 9: File Storage
-+ Week 10: Database, Speech to Text and Swipe
++ Week 10: Database and Speech to Text
 + Midterm Project (including the beta version if you want to try it out)
 # Build and run
 - Open these projects in Android Studio and run them on your physical Android device (if you do own one) or run them via a virtual device.
