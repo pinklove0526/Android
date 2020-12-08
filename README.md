@@ -19,3 +19,4 @@ A list of Android apps done within the Advanced Object-Oriented Programming cour
 # Notes
 - All apps were built using Android Studio 4.0 and newer.
 - All apps were tested on the Asus ZenFone 3 Max (ZC553KL) running Android 8.1 (Oreo).
+- All apps were written in Java.
