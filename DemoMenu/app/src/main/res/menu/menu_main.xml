@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item_save"
+        android:title="Save"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item_edit"
+        android:title="Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item_search"
+        android:title="Search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item_cam"
+        android:title="Camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/item_call"
+        android:title="Call"
+        android:icon="@android:drawable/ic_menu_call"
+        app:showAsAction="ifRoom"/>
+
+</menu>
